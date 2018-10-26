@@ -23,6 +23,4 @@ $ npm start
 ```
 Make sure you have Node.js and npm installed on your machine before you do.
 
-**Note**: License for the source code is provided in the source code directory, and a read me file that shares an insight on how Microsoft distributes their open source packages. 
-
-This code is for those who take the course and would like to follow along, and is not recommended to be used on a production environment. 
+**Note**: This code is for those who take the course and would like to follow along, and is not recommended to be used on a production environment. 

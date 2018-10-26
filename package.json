@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-webapp-express",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "description": "nodejs-webapp-express",
+  "author": {
+    "name": "Afzaal Ahmad Zeeshan"
+  },
+  "dependencies": {
+    "applicationinsights": "^1.0.6",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "debug": "^2.6.9",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "pug": "^2.0.3",
+    "serve-favicon": "^2.5.0"
+  },
+  "engines": {
+    "node": "~6.10.x"
+  }
+}
